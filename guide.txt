@@ -35,12 +35,12 @@ Please keep the above information in mind.
 
 Exclusive          	Exclusive\
 Aktarus            	Kaya
-Valkyrie            Natalie
+Valkyrie             Natalie
 Helena
 Ranek
 
-Rare                Rare
-Angus               Ilian
+Rare                 Rare
+Angus                Ilian
 
 Advanced          	Advanced
 Lulu
