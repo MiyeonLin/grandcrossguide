@@ -6,7 +6,7 @@ Table of Contents
 1. What is the proper direction for construction and research?
 1. Small but useful tips
 
-★★★1. How should I build my account when I first create it?★★★
+★★★ How should I build my account when I first create it?★★★
 
 First of all, when you first create an account, just keep clearing chapters until you reach castle level 21.
 The reason is because at level 21, the number of operable troops increases to 5+1.
@@ -17,7 +17,7 @@ What does 5+1 mean?
 1 = The troop in the small green square in the top right corner -> Can only gather
 (Special thing is they cannot stop after finishing gathering and returning)
 
-★★★2. Which heroes should I raise?★★★
+★★★ Which heroes should I raise?★★★
 
 First, there are various types of heroes.
 Hunting / Gathering / Combat / Arena / Field Battle / Monster Subjugation and so on, there are too many.
@@ -28,29 +28,29 @@ Main hero: Both skills and talents apply
 Sub hero: Only skills apply
 Please keep the above information in mind.
 
-1. Hunting         	2) Gathering
-   Legendary           Legendary
-   Secmeth             Adriene
-   Claudia
+Hunting         	  Gathering
+Legendary           Legendary
+Secmeth             Adriene
+Claudia
 
-Exclusive          	Exclusive\
-Aktarus            	Kaya
-Valkyrie             Natalie
+Exclusive          Exclusive
+Aktarus            Kaya
+Valkyrie           Natalie
 Helena
 Ranek
 
-Rare                 Rare
-Angus                Ilian
+Rare               Rare
+Angus              Ilian
 
-Advanced          	Advanced
+Advanced           Advanced
 Lulu
 Larie
 Sophia
 
 
-3. Recommended Combinations (Contains subjective opinions)
-   (※Please ignore which is main and sub, I arbitrarily set them.
-   Just make the hero with talents that match the purpose of this troop's deployment the main hero.)
+Recommended Combinations (Contains subjective opinions)
+(※Please ignore which is main and sub, I arbitrarily set them.
+Just make the hero with talents that match the purpose of this troop's deployment the main hero.)
 
 Infantry
 Kallope + Erdall (Strongest garrison deck)
@@ -83,25 +83,25 @@ Beom + Janette
 Gallahad + Bella (Gathering kill)
 Kaila + Ilian (Fast speed)
 
-4. Recommended heroes for monster subjugation
-   Legendary         	Exclusive
-   Elisha             Ranek
-   Melibee           	Haemosu
-   Isaac              Jangseung
-   Helga              Bella
-   Newmar
-   Beom
-   Secmeth
-   Bellimaur
-   Corvo
-   Karma
+Recommended heroes for monster subjugation
+Legendary         	Exclusive
+Elisha               Ranek
+Melibee           	Haemosu
+Isaac                Jangseung
+Helga                Bella
+Newmar
+Beom
+Secmeth
+Bellimaur
+Corvo
+Karma
 
 As I mentioned before, you really have to raise all heroes.
 But heroes that are rarely used: Kainess, Mua
 Heroes to start raising: All except above
 Heroes to raise until the end: Kallope, Janette, Haemosu, Jangseung, 7 gathering heroes, Kaila (for move speed), Eren (best cost efficient defensive hero)
 
-★★★3. How should I distribute hero talents?★★★
+★★★ How should I distribute hero talents?★★★
 
 Many people are curious about this part.
 I'm not very good at explaining, but I will do my best.
@@ -133,19 +133,14 @@ I'm not very good at explaining, but I will do my best.
 1) Kaila: She is the hero with the fastest speed, so raise all talents related to march speed in talents.
 1) Jangseung: There are some heroes specialized in mana like Jangseung. In their talents there are many mana related talents.
    Think of these heroes as so-called skill spammers, they are great paired with heroes that have powerful active skills.
-1) You can raise them differently depending on the situation. For example with Secmeth, if you plan to hunt for a while, you can raise hunting related talents in talents, and if you plan to war, change to attack related ones. 
+1) You can raise them differently depending on the situation. For example with Secmeth, if you plan to hunt for a while, you can raise hunting related talents in talents, and if you plan to war, change to attack     related ones. 
    You can adjust well according to the situation.
 
-★★★4. What is the proper direction for construction and research?★★★
+★★★ What is the proper direction for construction and research?★★★
 
 1. Construction
    The castle is basic, rush the castle to level 21 first, then you can take it slowly afterwards.
    From now on, make sure the castle level and hospital and castle wall levels are the same.
-
-Server 1 has experienced war.
-We've done defending, sieging, field battles.
-From experience, if the hospital level, or castle wall level is low, you will take much more damage.
-Even if it's the castle walls, the hospital is a must! Make sure they are the same level as the castle.
 
 2. Research
    For research, tier upgrade comes first.
@@ -156,7 +151,7 @@ Even if it's the castle walls, the hospital is a must! Make sure they are the sa
 ※ For construction and research, be sure to patiently accumulate strength until a proper event comes.
 Such events come more often than you think.
 
-★★★5. Small but useful tips★★★
+★★★ Small but useful tips★★★
 I will write randomly as I think of them..
 
 ▶1
@@ -278,8 +273,10 @@ Aktarus (Reduce damage taken from monsters)
 
 These give very juicy rewards. You must hunt them. As mentioned, using multiple troops multiples rewards. 
 Raid these on time with a good alliance. This is the only way for free players to compete with payers.
+
 ▶29
  When hunting, only prepare single target damage heroes without AOE skills. AOE skills make things messy.
+
 ▶30
  About titans - at 180k power they unlock naturally. But the cavalry titan Edock starts badly injured. 
 Use cavalry materials from the titan workshop to heal him. You'll need about 10-15 half health titans to beat level 1 Inferno bosses later.
