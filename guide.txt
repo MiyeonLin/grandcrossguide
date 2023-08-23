@@ -28,7 +28,7 @@ Main hero: Both skills and talents apply
 Sub hero: Only skills apply
 Please keep the above information in mind.
 
-Hunting             Gathering
+Hunting          Gathering
 Legendary           Legendary
 Secmeth             Adriene
 Claudia
