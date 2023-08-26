@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://miyeonlin.github.io/grandcrossguide/sitemap.xml
